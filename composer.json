@@ -1,5 +1,5 @@
 {
-    "name": "webeith/DnsblBundle",
+    "name": "webeith/dnsbl-bundle",
     "type": "symfony-bundle",
     "description": "Dnsbl bundle for Symfony2",
     "keywords": ["DNSBL"],
