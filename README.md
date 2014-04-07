@@ -1,5 +1,8 @@
 DnslBundle
 =====
+[![License](https://poser.pugx.org/webeith/dnsbl/license.png)](https://packagist.org/packages/webeith/dnsbl)
+[![Total Downloads](https://poser.pugx.org/webeith/dnsbl-bundle/downloads.png)](https://packagist.org/packages/webeith/dnsbl-bundle)
+
 * [See how to use service](http://github.com/webeith/dnsbl)
 
 Usage Example
